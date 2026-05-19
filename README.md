@@ -1,4 +1,4 @@
-# sage_qa
+# SAGE-QA
 
 Shared-Context Agentic Graph-Enhanced Question Answering.
 
