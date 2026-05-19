@@ -179,11 +179,6 @@ Health check:
 curl http://localhost:8000/health
 ```
 
-<<<<<<< HEAD
-## Notes
-=======
----
-
 ## License
 
 This project is released under the MIT License.
